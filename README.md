@@ -1,2 +1,2 @@
-# christmas-tree
+# christms-tree
 Created with CodeSandbox
